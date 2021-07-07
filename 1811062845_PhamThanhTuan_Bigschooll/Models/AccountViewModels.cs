@@ -12,6 +12,7 @@ namespace _1811062845_PhamThanhTuan_Bigschooll.Models
 
     public class ExternalLoginListViewModel
     {
+        //key
         public string ReturnUrl { get; set; }
     }
 
